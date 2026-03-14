@@ -1,0 +1,5 @@
+# Output
+/Output/**/*
+
+# Generated for Project
+/Project/Assets/StreamingAssets/Tables/**/*
