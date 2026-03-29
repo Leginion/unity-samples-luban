@@ -1,9 +1,10 @@
-# Unity Samples: Luban
+# Unity + Luban 转表演示
 
-This repository is a simple example shows how to use Luban in Unity Project.
+这个仓库用于简单演示如何在Unity项目中使用Luban。
 
-## Scripts
+## 脚本
 
 **gen.bat**
 
-run `gen` in terminal, generate .json from `Luban/_UnityTables`.
+在控制台运行 `gen` ，会生成 .json 文件。  
+数据来源 `Luban/_UnityTables` 。
