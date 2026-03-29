@@ -6,5 +6,10 @@
 
 **gen.bat**
 
-在控制台运行 `gen` ，会生成 .json 文件。  
+在控制台运行 `gen` ，会生成 .json 文件到 `Project/Assets/StreamingAssets/Tables/*` 。  
+数据来源 `Luban/_UnityTables` 。
+
+**gen-lua.bat**
+
+在控制台运行 `gen-lua` ，会生成 .lua 文件到 `Project/Assets/StreamingAssets/Tables/*` 。  
 数据来源 `Luban/_UnityTables` 。
